@@ -37,3 +37,10 @@
 >
 >> Value Type!
 > --------------------------------------------
+
+## 53. Purpose of Interfaces
+- We know that:
+  - Every value has a type;
+  - Every function has to specify the type of its arguments
+- So does that mean?
+  - Every function we ever write has to be rewritten to accomodate different types even if the logic in it is identical?
